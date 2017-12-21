@@ -1,3 +1,4 @@
 # ConflictTest
 
-This is a test line. (modified by C)
+This is a test line. (modified by B)
+Conflict resolved.
